@@ -21,4 +21,8 @@ Execution
 
 Simply run it using 
 
-    python application.py or python3 application.py on a qualified machine, with parameters of system input manually
+    python application.py 
+    or 
+    python3 application.py 
+
+on a qualified machine, with parameters of system input manually

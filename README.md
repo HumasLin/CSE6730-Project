@@ -21,6 +21,4 @@ Execution
 
 Simply run it using 
 
-    python application.py, with parameters of system input manually
-
-on PACE-cluster
+    python application.py or python3 application.py on a qualified machine, with parameters of system input manually
